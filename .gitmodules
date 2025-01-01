@@ -1,0 +1,3 @@
+[submodule "CricScore-FrontEnd"]
+    path = CricScore-FrontEnd
+    url = https://github.com/your-username/CricScore-FrontEnd.git
